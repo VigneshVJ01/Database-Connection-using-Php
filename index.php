@@ -1,0 +1,18 @@
+<?
+include('db.php');
+
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login to Celestial Systems</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome User</h1>
+    <a href="vjlogin.php">Logout</a>
+</body>
+</html>
